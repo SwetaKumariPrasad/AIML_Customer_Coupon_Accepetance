@@ -6,7 +6,7 @@ This project explores various options/factors/conditions whether a driver will a
 
 # Objectives
 
-* Explore and visualize the acceptance rates of Coffee House coupons.
+* Explore and visualize the acceptance rates of coupons.
 
 * Identify demographic and behavioral factors that influence coupon acceptance.
 

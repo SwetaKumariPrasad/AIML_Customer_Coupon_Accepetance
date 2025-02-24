@@ -1,5 +1,5 @@
 # AIML_Customer_Coupon_Accepetance
-Distinguish between customers who accepted a driving coupon versus those that did not.
+Distinguish between customers who accepted a coupon versus those that did not.
 
 # Project Overview
 This project explores various options/factors/conditions whether a driver will accept a coupon delivered to their phone. The coupon is for a Bar, Coffee House, Restraunt near their destination. The dataset is from UCI Machine Learning repository. The goal is to identify the characteristics and behaviors of customers who are likely to accept coupons, thereby providing actionable insights for targeted marketing strategies.
